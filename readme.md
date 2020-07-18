@@ -11,7 +11,4 @@
         <a href="https://twitter.com/popeyelau"><img src="https://img.shields.io/twitter/follow/popeyelau.svg?style=social" alt="Twitter Follow"></a>
     </div>
     <br>
-	<br>
-	<p><img src="https://github-readme-stats.vercel.app/api?username=popeyelau&show_icons=true&hide_border=true" alt="Popeye's github stats"></p>
-
 </div>
