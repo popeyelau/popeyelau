@@ -12,4 +12,5 @@
 		<a href="https://open.spotify.com/user/1262888313?si=fepeKUeBQCOnwQKMCudQOw"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"></a>
     </div>
     <br>
+    <img src="https://count.getloli.com/get/@popeyelau"/>
 </div>
